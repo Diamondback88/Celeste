@@ -1,6 +1,6 @@
 name: Celeste
-version: 2.1
-api-version: 1.20.5
+version: 2.2
+api-version: 1.21.5
 author: Idrees
 maintainer: Diamondback88
 main: com.idreesinc.celeste.Celeste
